@@ -768,7 +768,7 @@ ul {
     color: #fff;
     border: 1px solid #edeff2;
     text-transform: uppercase;
-    background-color: #B08EAD;
+    background-color: #fab120;
     cursor: pointer;
     -webkit-transition: 0.5s;
     transition: 0.5s;
@@ -1660,7 +1660,7 @@ ul {
 /* line 656, /Applications/MAMP/htdocs/old/palash/cl/shop_html/sass/_blog.scss */
 
 .blog_right_sidebar .single_sidebar_widget {
-    background: #fbf9ff;
+    background: #fff9ed;
     padding: 30px;
     margin-bottom: 30px;
 }
@@ -1672,7 +1672,7 @@ ul {
     height: 50px;
     border-color: #f0e9ff;
     font-size: 13px;
-    color: #999999;
+    color: #a8a59b;
     padding-left: 20px;
     border-radius: 0;
     border-right: 0;
@@ -1682,7 +1682,7 @@ ul {
 /* line 674, /Applications/MAMP/htdocs/old/palash/cl/shop_html/sass/_blog.scss */
 
 .blog_right_sidebar .search_widget .form-control::placeholder {
-    color: #999999;
+    color: #a8a59b;
 }
 
 
@@ -1711,7 +1711,7 @@ ul {
 .blog_right_sidebar .search_widget .input-group button i,
 .blog_right_sidebar .search_widget .input-group button span {
     font-size: 14px;
-    color: #999999;
+    color: #a8a59b;
 }
 
 
@@ -1737,7 +1737,7 @@ ul {
 /* line 719, /Applications/MAMP/htdocs/old/palash/cl/shop_html/sass/_blog.scss */
 
 .blog_right_sidebar .newsletter_widget .form-control:focus {
-    border-color: #f0e9ff;
+    border-color: #ffdb94;
     outline: 0;
     box-shadow: none;
 }
@@ -2595,8 +2595,8 @@ ul {
 /* line 1496, /Applications/MAMP/htdocs/old/palash/cl/shop_html/sass/_blog.scss */
 
 .single_sidebar_widget .btn_1:hover {
-    color: #B08EAD !important;
-    border: 1px solid #B08EAD;
+    color: #fab120 !important;
+    border: 1px solid #fab120;
 }
 
 
@@ -2870,7 +2870,7 @@ ul {
 /* line 121, /Applications/MAMP/htdocs/old/palash/cl/shop_html/sass/_menu.scss */
 
 .menu_fixed .active_color {
-    color: #B08EAD !important;
+    color: #fab120 !important;
 }
 
 
@@ -2883,7 +2883,7 @@ ul {
     transform: scale(1, 0);
     display: block;
     border: 0px solid transparent;
-    background-color: #B08EAD;
+    background-color: #fab120;
 }
 
 
@@ -2893,7 +2893,7 @@ ul {
     font-size: 14px;
     padding: 8px 20px !important;
     color: #fff !important;
-    background-color: #B08EAD;
+    background-color: #fab120;
     text-transform: capitalize;
 }
 
