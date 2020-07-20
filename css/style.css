@@ -4,6 +4,7 @@
 /**************** extend css start ****************/
 
 @import url("https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700|Rubik:300,400,500,700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
 
 /* line 2, /Applications/MAMP/htdocs/old/palash/cl/shop_html/sass/_extends.scss */
 
@@ -10494,6 +10495,7 @@ h6 {
 /* line 10, /Applications/MAMP/htdocs/old/palash/cl/shop_html/sass/_breadcrumb.scss */
 
 .breadcrumb_part .breadcrumb_iner h2 {
+    font-family: 'Montserrat', sans-serif;
     font-size: 50px;
     line-height: 1.2;
     color: #fff;
